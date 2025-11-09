@@ -1,0 +1,102 @@
+
+.bg{
+    background-image:url("https://wallpapers.com/images/high/travel-and-tourism-4s9sjtm3eu7ilpbv.webp");
+background-size: cover;  
+height:100vh;
+
+ 
+
+    
+}
+.ca{
+    background-color:white;
+    border-top-left-radius:50px;
+    border-bottom-right-radius: 50px;
+    text-align:center;
+    padding:10px;
+
+
+}
+.bu{
+    height:50px;
+    width:138px;
+    background-color: cyan;
+    border-radius:10px;
+    border-color:cyan;
+
+    
+}
+.bg1{
+    background-image:url("https://www.sharpholidays.in/blog/wp-content/uploads/2018/03/Rishikesh-1280x540.jpg");
+    background-size:cover
+
+}
+.io{
+    background-color: aliceblue;
+    border-radius:10px;
+    padding:10px;
+    margin:10px
+}
+.sy{
+
+color:white;
+padding:7px;
+
+}
+.buts{
+    background-color: black;
+    border-color:black;
+    color:white;
+    margin:4px;
+    text-align: left;
+
+}
+.im{
+    height: 100px  ;
+    width: 150px ;
+    border-radius:10px;
+    margin-right:250px;
+
+}
+.bgs{
+    margin-right:auto 70px;
+
+}
+.de{
+    background-image: url("https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&w=600");
+background-size: cover;
+}
+.op{
+        margin-top:10px;
+
+    height:200px;
+    width:450px;
+
+
+}
+.sts{
+    
+    margin:20px;
+height:100vh;
+    background-image: url("https://images.unsplash.com/photo-1606744666360-2f22c8b4a45b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1528");
+    background-size: cover;
+
+}
+.ops{
+    background-color: white;
+    border-radius:10px;
+    padding:10px;
+    height:400px;
+    width:450px;
+    text-align: center;
+    color:black
+    
+    
+}
+.ui{
+    margin:10px;
+    padding:10px;
+    
+    color:black
+    }
+             
